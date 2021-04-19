@@ -1,0 +1,34 @@
+- layout: left
+  name: MIT
+  dates: August 2015 - Present
+  qualification: PhD in Economics
+  quote: >
+    Graduation expected in June 2021. GPA: 4.9/5.0
+  description: | # this will include new lines to allow paragraphs
+    <i>Advisors</i>: Daron Acemoglu, Martin Beraja, Ricardo Caballero.
+
+    <i>Majors</i>: Macroeconomics, Public Economics.
+
+    <i>Minors</i>: International Economics, Time Series.
+
+- layout: left
+  name: Bocconi University
+  dates: September 2012 - December 2014
+  qualification: MSc in Economics and Social Sciences
+  quote: >
+    Summa cum laude. GPA: 30.28/31
+  description: | # this will include new lines to allow paragraphs
+    <i>Advisors</i>: Tommaso Monacelli, Francesco Giavazzi.
+
+    <i>Thesis</i>: Fiscal Policy in a Monetary Union: New Evidence from US States
+
+- layout: left
+  name: Bocconi University
+  dates: September 2009 - November 2012
+  qualification: Bachelor in Economics and Social Sciences
+  quote: >
+    Summa cum laude. GPA: 30.43/31
+  description: | # this will include new lines to allow paragraphs
+    <i>Advisor</i>: Tommaso Monacelli
+
+    <i>Final Paper</i>: Financial Frictions and the Labor Wedge: Evidence from U.S. Metropolitan Areas

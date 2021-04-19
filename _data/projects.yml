@@ -1,0 +1,35 @@
+- layout: top-middle
+  name: "Automation and the Future of Work: Assessing the Role of Labor Flexibility"
+  # link: 
+  # github: sproogen/resume-theme
+  dates: September 2020 | joint with Andrea Manera | R&R at <a href="https://www.journals.elsevier.com/review-of-economic-dynamics/">Review of Economic Dynamics</a>
+  quote: >
+    <b>Job Market Paper</b> | 
+    <a href="https://github.com/mfornino/automation/blob/master/paper.pdf">Latest Version</a> | 
+    <a href="https://github.com/mfornino/automation/blob/master/slides.pdf">Slides</a>
+    
+  description: | # this will include new lines to allow paragraphs
+    We study the economic incentives for automation when labor and machines are perfect substitutes. Labor may still be employed in production, even when it is a costlier input than robots on a productivity-adjusted basis. This occurs if firms face uninsurable idiosyncratic risk, adjusting the stock of machines is costly, and workers can be hired and fired quickly enough. Even though labor survives, jobs become less stable, as workers are hired in short-lived bursts to cope with shocks. We calibrate a general equilibrium, multi-industry version of our model to match data on robot adoption in US manufacturing sectors, and use it to compute the employment and labor share consequences of progress in automation technology. A fall in the relative price of robots leads to relatively few jobs losses, while reductions in adjustment costs, or improvements in relative robot productivity, can be far more disruptive. The model-implied semi-elasticity of aggregate employment to robot penetration ranges between 0.01% and 0.1%, depending on the underlying source of increased robot adoption. Adding reduced-form hiring and firing costs to our benchmark model reveals that the scare of automation is justified when regulations impose substantial rigidity on employment relations.
+
+- layout: top-middle
+  name: "Firm Heterogeneity, Wage Rigidity, and the Labor Market"
+  dates: May 2018 | joint with Elia Sartori
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    <a href="https://www.dropbox.com/s/70xjpelunant6ec/master.pdf?dl=0">Latest Version</a> | 
+    <a href="https://www.dropbox.com/s/x76qhr1xc65gtto/master.pdf?dl=0">Slides</a>
+    
+  description: | # this will include new lines to allow paragraphs
+    We present a wage posting model with search frictions where idiosyncratic shocks to optimal firm size generate different returns to adjusting the workforce. Our approach takes the firms as the only decision makers, and it assumes a simple employment contract: firms pay a wage and may only change an employment relationship by paying exogenously specified costs. Labor market outcomes are modeled as a mean field game equilibrium in which aggregate statistics impacting firms’ policies, which play the role of prices, are the hiring and poaching flow rates. Consistency of aggregate choices with prices builds on a reduced form matching function which subsumes the entire functioning of the labor market outside of firms. Leveraging and extending recently developed numerical methods, we can solve for the equilibrium. The model delivers nontrivial policy functions and aggregates, which can be used to quantify features of the endogenous reshuffling of workers both in the size ladder and in the wage ladder, including net poaching along these two margins, as presented in, e.g., Haltiwanger et al. (2017). A calibrated version of the model is able to generate an inverted net poaching schedule which is consistent with their finding that smaller firms poach workers from larger ones.
+
+- layout: top-middle
+  name: "The Consumption Multiplier of Government Purchases: Evidence from U.S. States"
+  dates: February 2017
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    <a href="https://www.dropbox.com/s/lwt507x14cjr2cs/paper.pdf?dl=0">Latest Version</a> | 
+    <a href="https://www.dropbox.com/s/8n1mxl015spmk92/slides.pdf?dl=0">Slides</a>
+  description: | # this will include new lines to allow paragraphs
+    We analyze evidence from US states to compute the open economy relative multiplier along the lines of Nakamura and Steinsson (2014). Identification of exogenous government spending shocks is achieved by exploiting the secular tendency of some states to receive a disproportionate share of military spending relative to others. Our contribution is twofold. First, we gather additional procurement data to extend the previous series until 2013, thus including the Great Recession and its aftermath. Second, to our knowledge, this is the first attempt at analyzing the effects of military spending shocks on an aggregate consumption measure at state level. Estimated short run multipliers on output range between 1.3 and 1.6. There is some weak evidence that points to a positive effect on private consumption in the short run. Nonlinearities in the estimated multipliers seem to play a much more important role: both output and consumption respond sharply when unemployment is relatively high, or since the onset of the Great Recession. We use these estimates as a diagnostic tool to evaluate the performance of competing models of the economy. The strong evidence pointing to state-dependent multipliers, even after controlling for monetary policy, seems to be consistent with the predictions of a New-Keynesian model with credit-constrained consumers.

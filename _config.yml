@@ -1,0 +1,79 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Hari Venkatesh
+title: PhD Candidate in Economics
+email: hari.venkatesh@iitkgp.ac.in
+website: https://harivenkatesh.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+# twitter_username: michele_fornino
+github_username:  venkateshhari
+# facebook_username: michele.fornino
+linkedin_username: harivenkatesh8
+#orcid_username: 0000-0002-9256-7252
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am a PhD Candidate in Economics at the Indian Institute of Technology Kharagpur. I will be graduating in July 2021. 
+  
+  My dissertation focuses on currency mismatches, predicting financial crises using machine learning algorithms, and analyze the financial effects of dollar appreciation on economic growth. I also work on issues related to international economics, trade, and investment
+
+  - Research interests: <mark>International Economics</mark>, <mark>Financial Crisis</mark>, <mark>Open Macroeconomics</mark>, <mark>Machine Learning</mark>.
+
+  - Things I love doing: <mark>Learning</mark>, <mark>Teaching</mark>, <mark>Coding</mark>
+
+  - Skills: <mark>MATLAB</mark> <mark>Julia</mark> <mark>Python</mark> <mark>Stata</mark> <mark>R</mark> <mark>C/C++</mark> <mark>LaTeX</mark> <mark>Linux</mark> <mark>Git/GitHub</mark>
+
+
+# Projects Section
+#projects_title: Research
+
+# Experience Section
+#experience_title: Work Experience
+
+# Education Section
+# educaton_title: Education
+
+# Awards Section
+# awards_title: Awards
+
+# More Section
+# more_title: A Little More About Me
+#more_content: | # this will include new lines to allow paragraphs
+#  <b>Awards</b>
+#   - <i>"Particolarmente Meritevole"</i>. Honor mention from <a href="https://www.bancaditalia.it/chi-siamo/lavorare-bi/borse-di-studio/stringher-mortara-menichella/index.html">Bank of Italy's Stringher scholarship</a> (2017).
+#   - <i>Marco Fanno Scholarship</i> from <a href="https://www.unicreditfoundation.org/en.html">Unicredit&Universities Foundation</a> (2014).
+#   - <i>Bocconi Full Merit Award</i>. Full scholarship awarded on the basis of merit from Bocconi University (2012).
+#
+# # <b>Languages</b>: Italian (Native), English (Proficient), French and Spanish (Reading Competence).
+#
+#  <b>Hobbies and Charity</b>
+#   - I manage a private, Linux-based server. I used it to provide access to course materials to Chinese students behind the <a href="https://en.wikipedia.org/wiki/Great_Firewall">Great Firewall</a> during the COVID-19 pandemic in Spring 2020, using an SFTP server.
+#   - I donate computing time to <a href="https://boinc.berkeley.edu/">BOINC</a> projects <a href="https://einsteinathome.org/">Einstein</a>, <a href="https://lhcathome.cern.ch/lhcathome/">LHC</a>, and <a href="https://setiathome.berkeley.edu/">SETI</a>. Here are my <a href="https://www.boincstats.com/signature/-1/user/66639517412/sig.png">stats</a>!
+#  - Slowly, slowly learning <a href="https://en.wikipedia.org/wiki/Modern_Standard_Arabic">Modern Standard Arabic</a> on <a href="https://www.duolingo.com/profile/mfornino">Duolingo</a>, إن شاء الله.
+#   - I love soccer and I am a huge fan of <a href="https://en.wikipedia.org/wiki/Inter_Milan">F.C. Internazionale Milano</a>. I played for the 'MIT Economics' intramural soccer team between 2016 and 2019. I was captain in 2019.
+#   - I try to exercise daily by either running or lifting weights.
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+# Dark mode
+ # darkmode: false (options: true, false, never)

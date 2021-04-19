@@ -1,0 +1,52 @@
+- layout: left
+  company: MIT
+  link: "http://economics.mit.edu/"
+  job_title: Teaching and Research Assistant
+  dates: March 2016 - Present
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    This is my <b>current position</b>. In Spring 2021, I will be a <b>teaching assistant</b> in 14.02 - Principles of Macroeconomics, and 14.33 - Research and Communication in Economics: Topics, Methods, and Implementation.
+
+    From September 2017 through May 2020, I was <b>teaching assistant</b> for 14.02 - Principles of Macroeconomics. Assisted Professors Ricardo Caballero, Martin Beraja, and Jim Poterba. Performed as a Head TA for 4 consecutive semesters.
+
+    From March 2017 through August 2017, I was <b>research assistant</b> for Professor Daniel Greenwald at MIT Sloan School of Management. Tasks included writing model equations in a Python script, which was then passed to a toolbox designed and written by the professor.
+
+    From March 2016 through September 2016, I was <b>research assistant</b> for Visiting Professors Emi Nakamura and Jón Steinsson on the project 'High Frequency Identification of Monetary Non-Neutrality: The Information Effect'. Tasks included the implementation of the SMM estimation of the model and design of the bootstrap procedure, both of which carried out in MATLAB.
+
+- layout: left
+  company: Bocconi University
+  link: "https://www.unibocconi.eu"
+  job_title: Teaching and Research Assistant
+  dates: September 2014 - June 2015
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    I worked as a <b>research assistant</b> for Professor Tommaso Monacelli on various projects including 'Understanding the Gains from Wage Flexibility: The Exchange Rate Connection'. Tasks included writing MATLAB code of simulations, as well as econometric analyses in Stata.
+
+    During this period, I was also a <b>teaching assistant</b> for the undergraduate classes 30026 - Monetary Economics and 30029 - Intermediate Microeconomics.
+
+- layout: left
+  company: IGIER
+  link: "http://www.igier.unibocconi.it/"
+  job_title: Intern
+  dates: June 2014 - August 2014
+  quote: >
+   Self-Confirming Equilibria in Macroeconomics
+  description: | # this will include new lines to allow paragraphs
+    The <b>curricular internship</b> was a requirement of the Master of Science in Economics and Social Sciences at Bocconi University. I worked under the supervision of Professor Simone Cerreia-Vioglio. Tasks included performing a literature review on the topic of the application of the game-theoretic concept of Self-Confirming Equilibrium in Macroeconomics. I wrote a short paper summarizing my findings and proposing possible future avenues for research on the topic.
+
+    <i><a href="https://www.dropbox.com/s/k0rddutdxn8onvz/NotesSCE.pdf?dl=0">Paper</a></i>
+
+- layout: left
+  company: Bulgarian National Bank
+  link: "http://www.bnb.bg/?toLang=_EN"
+  job_title: Summer Intern
+  dates: July 2013 - August 2013
+  quote: >
+   Structuring and analyzing results from an external competitiveness study based on shift-shares analysis of export growth
+  description: | # this will include new lines to allow paragraphs
+    My <b>first work experience</b> was a four-weeks-long <b>internship</b> in Sofia, Bulgaria, under the supervision of Georgi Momchilov. I was tasked to organize the results of the shift-shares decomposition of export growth that the research department had just performed. The work culminated in a short paper and a presentation that I had to give in front of the entire research department of the BNB.
+
+    <i><a href="https://www.dropbox.com/s/2y6tpc66j35vmuu/Final%20Paper.pdf?dl=0">Paper</a> | 
+    <a href="https://www.dropbox.com/s/m6tnhpimeqy0nh0/Presentation.pdf?dl=0">Slides</a></i>
